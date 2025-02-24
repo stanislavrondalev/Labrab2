@@ -1,1 +1,1 @@
-https://github.com/stanislavrondalev/-Web--/blob/Markdown/cv.md
+https://stanislavrondalev.github.io/-Web--/cv
